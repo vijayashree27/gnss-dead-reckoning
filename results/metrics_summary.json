@@ -1,0 +1,23 @@
+{
+  "total_samples": 208,
+  "outage_duration_sec": 20.7,
+  "total_gps_distance_m": 64.164,
+  "total_dr_distance_m": 165.344,
+  "raw_final_error_m": 67.835,
+  "raw_mean_error_m": 38.891,
+  "raw_max_error_m": 67.835,
+  "raw_rmse_m": 43.285,
+  "raw_cep50_m": 41.841,
+  "raw_r95_m": 64.573,
+  "raw_drift_percent_gps": 105.72,
+  "raw_drift_percent_dr": 41.03,
+  "calibrated_final_error_m": 22.22,
+  "calibrated_mean_error_m": 13.953,
+  "calibrated_max_error_m": 28.87,
+  "calibrated_rmse_m": 16.077,
+  "calibrated_cep50_m": 13.797,
+  "calibrated_r95_m": 26.267,
+  "calibrated_drift_percent_gps": 34.63,
+  "calibrated_drift_percent_dr": 13.44,
+  "error_reduction_percent": 67.24
+}
