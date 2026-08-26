@@ -1,0 +1,16 @@
+{
+    "features": [
+        "ax",
+        "ay",
+        "az",
+        "gyro_yaw",
+        "gyro_pitch",
+        "gyro_roll",
+        "accel_magnitude",
+        "gyro_magnitude",
+        "accel_change",
+        "gyro_change"
+    ],
+    "target": "vehicle_speed",
+    "model": "RandomForestRegressor"
+}
